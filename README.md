@@ -26,7 +26,7 @@ I specialize in the **Scikit-Learn** ecosystem, building end-to-end Machine Lear
 ---
 
 ### 🛠️ Professional Stack
-* **Languages:** Python (Advanced)
+* **Languages:** Python (Advanced), SQL, Excel, PowerBI
 * **Machine Learning:** **Scikit-Learn**, XGBoost, LightGBM
 * **Data Engineering:** Pandas, NumPy, Feature Engineering
 * **Visualization:** Matplotlib, Seaborn, Plotly
